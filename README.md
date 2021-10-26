@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on RektAntiCheat, an advanced Minecraft anticheat.
 - 💬 You can ask me for java and javascript help.
-- 📫 Discord: AndrewInnit#0508
+- 📫 Discord: Andrew.#8214
 - ⚡ Fun fact: Magnesium has a very slight reaction with cold water, but burns in steam.
