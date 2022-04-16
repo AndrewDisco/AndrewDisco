@@ -24,6 +24,7 @@ You can reach out to me on a multitude of platforms!
 ## 🚧 Projects
 
 - 💫 [`Skylix`] - Skylix is an open source development team!
+- 💳 [`SecureMM`] - SecureMM is a project where people can request trusted middlemen for their deals.
 
 And many, many more things you can see by exploring [`my repositories`]!
 
@@ -43,3 +44,4 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`C++`]: https://www.cplusplus.com/
 [`Skylix`]: https://github.com/SkylixGH
 [`my repositories`]: https://github.com/AndrewDisco?tab=repositories
+[`SecureMM`]: https://securemm.com/
