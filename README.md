@@ -1,5 +1,5 @@
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey, I'm Andrew! 
+# Hey, I'm Andrew! 
 <p align="center"><br>
   <a href="https://evie.pw/discord">
     <img src="https://lanyard.cnrad.dev/api/325345907719536641"/>
