@@ -45,4 +45,4 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`C++`]: https://www.cplusplus.com/
 [`Skylix`]: https://github.com/SkylixGH
 [`my repositories`]: https://github.com/AndrewDisco?tab=repositories
-[`SecureMM`]: https://securemm.com/
+[`SecureMM`]: https://securemm.co/
