@@ -1,7 +1,7 @@
 
 # Hey, I'm Andrew! 
 <p align="center"><br>
-  <a href="https://evie.pw/discord">
+  <a>
     <img src="https://lanyard.cnrad.dev/api/325345907719536641"/>
      </a>
 </p>
