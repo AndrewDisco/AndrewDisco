@@ -23,7 +23,7 @@ You can reach out to me on a multitude of platforms!
 
 ## 🚧 Projects
 
-- 💫 [`Skylix`] - Skylix is an open source development team!
+- 💫 [`NCXT`] - NCXT (former Skylix) is an open source development team! Click [`Skylix`] to view the old organization
 - 💳 [`SecureMM`] - SecureMM is a project where people can request trusted middlemen for their deals.
 
 And many, many more things you can see by exploring [`my repositories`]!
@@ -44,5 +44,6 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`Java`]: https://www.java.com/en/
 [`C++`]: https://www.cplusplus.com/
 [`Skylix`]: https://github.com/SkylixGH
+[`NCXT`]: https://github.com/NCXT5
 [`my repositories`]: https://github.com/AndrewDisco?tab=repositories
 [`SecureMM`]: https://securemm.co/
