@@ -6,7 +6,7 @@
      </a>
 </p>
 
-I'm a **very** fast learner when it comes to tech & programming. My main languages I focus on are [`C++`] and [`Java`].
+I'm a **very** fast learner when it comes to tech & programming. My main languages I focus on are [`C++`] and [`Python`].
 
 ### Fun Facts 😲
 
@@ -42,6 +42,7 @@ And many, many more things you can see by exploring [`my repositories`]!
 <!----------------- Quick Links --------------->
 
 [`Java`]: https://www.java.com/en/
+[`Python`]: https://www.python.org/
 [`C++`]: https://www.cplusplus.com/
 [`Skylix`]: https://github.com/SkylixGH
 [`NCXT`]: https://github.com/NCXT5
