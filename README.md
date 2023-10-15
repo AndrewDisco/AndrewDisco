@@ -1,16 +1,11 @@
 
 # Hey, I'm Andrew! 
-<p align="center"><br>
-  <a>
-    <img src="https://lanyard.cnrad.dev/api/325345907719536641"/>
-     </a>
-</p>
 
-I'm a **very** fast learner when it comes to tech & programming. My main languages I focus on are [`C++`] and [`Python`].
+I'm a **very** fast learner when it comes to tech & programming. The main languages I focus on are [`C++`] and [`Python`].
 
 ### Fun Facts 😲
 
--  Magnesium has a very slight reaction with cold water, but burns in steam.
+-  Magnesium has a very slight reaction with cold water but burns in steam.
 - In [`C++`], 10[index]==index[10] returns true.
 - [`Java`], what's `2.00-1.10`? It's `0.8999999999999999`
 
@@ -18,13 +13,13 @@ I'm a **very** fast learner when it comes to tech & programming. My main languag
 
 You can reach out to me on a multitude of platforms!
 
-- Email : andreidaviddragos@protonmail.com
+- Email: andreidaviddragos@protonmail.com
 - Discord: [`Andrew.#1337`](https://discord.com/users/325345907719536641)
 
 ## 🚧 Projects
-
-- 💫 [`NCXT`] - NCXT (former Skylix) is an open source development team! Click [`Skylix`] to view the old organization
-- 💳 [`SecureMM`] - SecureMM is a project where people can request trusted middlemen for their deals.
+- 🗻 [`EcoVest`] - A sustainable initiative to protect the Himalayan environment and tackle the waste issue on Everest using AI-powered drones and circular economy practices. (Role: Lead Developer)
+- 💫 [`NCXT`] - NCXT (former Skylix) is an open-source development team! Click [`Skylix`] to view the old organization. (Role: Co-Owner)
+- 💳 [`SecureMM`] - SecureMM is a project where people can request trusted middlemen for their deals. (Role: Backend Lead Developer)
 
 And many, many more things you can see by exploring [`my repositories`]!
 
@@ -48,3 +43,4 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`NCXT`]: https://github.com/NCXT5
 [`my repositories`]: https://github.com/AndrewDisco?tab=repositories
 [`SecureMM`]: https://securemm.co/
+[`EcoVest`]: 
