@@ -17,9 +17,9 @@ You can reach out to me on a multitude of platforms!
 - Discord: [`Andrew.#1337`](https://discord.com/users/325345907719536641)
 
 ## 🚧 Projects
-- 🗻 [`EcoVest`] - A sustainable initiative to protect the Himalayan environment and tackle the waste issue on Everest using AI-powered drones and circular economy practices. (Role: Lead Developer)
-- 💫 [`NCXT`] - NCXT (former Skylix) is an open-source development team! Click [`Skylix`] to view the old organization. (Role: Co-Owner)
-- 💳 [`SecureMM`] - SecureMM is a project where people can request trusted middlemen for their deals. (Role: Backend Lead Developer)
+- 🗻 [`EcoVest`] - A sustainable initiative to protect the Himalayan environment and tackle the waste issue on Everest using AI-powered drones and circular economy practices. **(Role: Lead Developer)**
+- 💫 [`NCXT`] - NCXT (former Skylix) is an open-source development team! Click [`Skylix`] to view the old organization. **(Role: Co-Owner)**
+- 💳 [`SecureMM`] - SecureMM is a project where people can request trusted middlemen for their deals. **(Role: Backend Lead Developer)**
 
 And many, many more things you can see by exploring [`my repositories`]!
 
@@ -43,4 +43,4 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`NCXT`]: https://github.com/NCXT5
 [`my repositories`]: https://github.com/AndrewDisco?tab=repositories
 [`SecureMM`]: https://securemm.co/
-[`EcoVest`]: 
+[`EcoVest`]: https://github.com/AndrewDisco/EcoVest
