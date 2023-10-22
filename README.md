@@ -6,7 +6,7 @@ I'm a **very** fast learner when it comes to tech & programming. The main langua
 ### Fun Facts 😲
 
 -  Magnesium has a very slight reaction with cold water but burns in steam.
-- In [`C++`], 10[index]==index[10] returns true.
+- In binary, 42 is 101010 - it's also the "Answer to the Ultimate Question of Life".
 - [`Java`], what's `2.00-1.10`? It's `0.8999999999999999`
 
 ## 🚧 Projects
