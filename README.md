@@ -11,6 +11,7 @@ I'm a **very** fast learner when it comes to tech & programming. The main langua
 
 ## 🚧 Projects
 - 🗻 [`EcoVest`] - A sustainable initiative to protect the Himalayan environment and tackle the waste issue on Everest using AI-powered drones and circular economy practices. **(Role: Lead Developer)**
+- 💻 [`Judgee`] - A robust tool for competitive programmers, designed to validate C++ code against a set of test cases, enhancing efficiency and preparation for coding competitions. **(Role: Creator and Lead Developer)**
 - 🧩 [`PBinfo Solutions`] - An open-source project that provides solutions and explanatory comments for computer science problems on **pbinfo.ro**, a popular platform for programming competitions and exercises in the Romanian language. It serves programmers looking to learn and understand efficient solutions. **(Role: Lead Developer)**
 - 📚 [`Didactica2023`] - An innovative approach to composing number theory problems using Python programming, demonstrating the creation of engaging and challenging problems while providing solutions and proofs. **(Role: Author)**
 - 🔒 [`RektAntiCheat`] - Developed during the summer of 2021 as a fun project, RektAntiCheat is an open-source Minecraft anti-cheat designed to maintain fair gameplay by detecting and preventing various forms of cheating. **(Role: Lead Developer)**
@@ -43,3 +44,4 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`Didactica2023`]: https://github.com/AndrewDisco/didactica2023/
 [`PBinfo Solutions`]: https://github.com/AndrewDisco/pbinfo-solutions
 [`RektAntiCheat`]: https://github.com/AndrewDisco/RektAntiCheat
+[`Judgee`]: https://github.com/AndrewDisco/Judgee
